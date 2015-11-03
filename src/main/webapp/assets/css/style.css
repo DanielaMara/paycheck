@@ -1,0 +1,44 @@
+
+
+body{
+    font-family: cursive;
+    font-size:1em;
+    width: 980px;
+    margin:0 auto;
+    color: #444;
+}
+.content
+{
+    width:50%;
+    margin:2em;
+    border:1px solid #333;
+     border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+}
+input
+{
+	 border-radius: 3px 3px 3px 3px;
+	-moz-border-radius: 3px 3px 3px 3px;
+	-webkit-border-radius: 3px 3px 3px 3px;
+	border:1px solid #888;
+	background-color: #fff;
+	padding: 0.5em;
+}
+h1
+{
+	font-size:0.9em;
+	font-weight: normal;
+	padding:0.5em;
+	border-bottom: 1px solid #333;
+}
+.content-form
+{
+	width:80%;
+	margin: 1.5em auto;
+	font-size: 0.8em;
+}
+.content-block
+{
+	margin-top: 1.5em;
+}
